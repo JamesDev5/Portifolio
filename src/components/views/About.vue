@@ -43,22 +43,19 @@
   <div class="carousel-inner">
     <div class="carousel-item active" data-bs-interval="10000">
       <div class="row mb-5">
-          <div class="col-lg-3 col-sm-2 text-center">
+          <div class="col-lg-4  text-center">
             <p class="text-html">HTML</p>
             <img src="/assets/img/icons/html.png" alt="HTML logo" />
           </div>
-          <div class="col-lg-3 col-sm-2 text-center">
+          <div class="col-lg-4  text-center">
             <p class="text-css">CSS</p>
             <img src="/assets/img/icons/css.png" alt="CSS logo" />
           </div>
-          <div class="col-lg-3 text-center">
+          <div class="col-lg-4 text-center">
             <p class="text-js">Java Script</p>
             <img src="/assets/img/icons/JavaScript.png" alt="JavaScript logo" />
           </div>
-          <div class="col-lg-3 text-center">
-            <p class="text-php">PHP</p>
-            <img src="/assets/img/icons/php.png" alt="PHP logo" />
-          </div>
+
       </div>
       <div class="carousel-caption d-none d-md-block">
         

@@ -11,7 +11,7 @@
         <div class="card-body">
           <h5 class="card-title">Hamburgueria</h5>
           <p class="card-text">
-            Consite em um site de delivery front-end para uma haburgueria ,
+            Consiste em um site de delivery front-end para uma haburgueria ,
             desenvolvido com VueJS.
           </p>
           <a href="https://jamesdev5.github.io/HamburgueriaJS/"  target="_blank" class="btn btn-primary"> Ir para projeto</a>
@@ -29,7 +29,7 @@
         <div class="card-body">
           <h5 class="card-title">Beauty Salon</h5>
           <p class="card-text">
-            Uma Landing Page de um salão fictício, construida em um evento da Rocket Seat em um evento da  NLW.
+            Uma Landing Page de um salão fictício, construida em um evento da Rocket Seat em uma edição da  NLW.
           </p>
           <a href="https://jamesdev5.github.io/beautysaloon/" target="_blank" class="btn btn-primary"> Ir para projeto</a>
         </div>
@@ -43,15 +43,34 @@
           class="card-img-top"
           alt="Projeto Todo-JS"
         />
+        
         <div class="card-body">
           <h5 class="card-title">Todo-Js</h5>
           <p class="card-text">
-            Pagina contruida com JS Puro onde criei uma ferramenta que funciona como uma espécie de agenda com algumas funcionalidades de Java.
+            Página contruida com JS Puro onde criei uma ferramenta que funciona como uma espécie de agenda com algumas funcionalidades em JavaScript.
           </p>
           <a href="https://jamesdev5.github.io/Todo-JS/ " class="btn btn-primary" target="_blank"> Ir para projeto</a>
         </div>
       </div>
     </div>
+
+        <div class="col-lg-4 col-sm-6 mb-3">
+      <div class="card" style="width: 18rem">
+        <img
+          src="/assets/img/projects/EmpresaCodar.png"
+          class="card-img-top"
+          alt="Projeto BeautySaloon"
+        />
+        <div class="card-body">
+          <h5 class="card-title">Empresa Codar</h5>
+          <p class="card-text">
+            Uma Landing Page de uma empresa fictícia, construida para treinar os conhecimentos de VueJS na criação de landing pages simples.
+          </p>
+          <a href="https://codarjamesdev5.netlify.app/" target="_blank" class="btn btn-primary"> Ir para projeto</a>
+        </div>
+      </div>
+    </div>
+
 
   </div>
  </div>
