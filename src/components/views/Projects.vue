@@ -39,17 +39,17 @@
     <div class="col-lg-4 col-sm-6 mb-3">
       <div class="card" style="width: 18rem">
         <img
-          src="/assets/img/projects/Todo-JS.png"
+          src="/assets/img/projects/toDo.png"
           class="card-img-top"
           alt="Projeto Todo-JS"
         />
         
         <div class="card-body">
-          <h5 class="card-title">Todo-Js</h5>
+          <h5 class="card-title">Lista de Tarefas VueJS</h5>
           <p class="card-text">
-            Página contruida com JS Puro onde criei uma ferramenta que funciona como uma espécie de agenda com algumas funcionalidades em JavaScript.
+            Todo list,desenvolvido em   Vue Js onde utilizei varias ferramentas e frameworks  como vue router, vuetify e Vuex.
           </p>
-          <a href="https://jamesdev5.github.io/Todo-JS/ " class="btn btn-primary" target="_blank"> Ir para projeto</a>
+          <a href="https://listatarefas-vuetodo.netlify.app/" class="btn btn-primary" target="_blank"> Ir para projeto</a>
         </div>
       </div>
     </div>
